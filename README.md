@@ -54,7 +54,7 @@ motto: "Bir şeyler üretmek. 🔧"
 ## 🛠️ Teknoloji & Araçlar
 
 <div align="center">ı
-###📱 Mobil Geliştirme
+###  📱 Mobil Geliştirme
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 
 ### 🌐 Web

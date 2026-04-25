@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Merhaba,%20ben%20Furkan%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=@fdmc_016%20%7C%20Mobile%20FDMC_016 Furkan%20%7C%20YouTuber&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Merhaba,%20ben%20Furkan%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=@devolopereph%20%7C%20Mobile%20Developer%20%7C%20YouTuber&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -30,9 +30,8 @@
 
 ```yaml
 isim: Furkan
-takma_ad: Furkan Studio
-konum: İstanbul, Türkiye 🇹🇷
-rol: Mobil Uygulama Geliştirici & YouTuber
+takma_ad:@fdmc_016
+rol:Yazılımci & YouTuber & Yayıncı
 
 ne_yapıyorum:
   - 📱 Flutter & Dart ile mobil uygulamalar geliştirip Google Play'de yayınlıyorum
@@ -54,8 +53,7 @@ motto: "Bir şeyler üretmek. 🔧"
 <!-- TECH STACK -->
 ## 🛠️ Teknoloji & Araçlar
 
-<div align="center">
-
+<div align="center">ı
 ### 📱 Mobil Geliştirme
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 
@@ -153,7 +151,7 @@ motto: "Bir şeyler üretmek. 🔧"
 <br/>
 
 <!-- YOUTUBE -->
-## 🎬 YouTube — Furkan
+## 🎬 YouTube — FFDM_016 Furkan
 
 <div align="center">
 
@@ -178,9 +176,9 @@ motto: "Bir şeyler üretmek. 🔧"
 
 | | |
 |:---:|:---|
-| 🏹 | Okçuluk yapıyorum |
-| 🏋️ | Fitness, yüzme ve koşu ile ilgileniyorum |
-| 📚 | Klasik kitaplar okumaya bayılırım |
+| 🏹 | Fikir bulmaya çalışıyorum |
+| 🏋️ | yazılım,kod dilleri,youtube ile ilgileniyorum|
+| 📚 | uygulama Fikirleri bulmaya calişiyorum|
 | ☕ | Kahve olmadan commit yok |
 | 💡 | En iyi fikirler sıkılınca geliyor |
 

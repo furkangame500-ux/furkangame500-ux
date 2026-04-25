@@ -151,7 +151,7 @@ motto: "Bir şeyler üretmek. 🔧"
 <br/>
 
 <!-- YOUTUBE -->
-## 🎬 YouTube — FFDM_016 Furkan
+## 🎬 YouTube — FDMC_016 Furkan
 
 <div align="center">
 
